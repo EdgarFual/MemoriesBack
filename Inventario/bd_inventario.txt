@@ -1,0 +1,3 @@
+7000000	Gaseosa Coca Cola 3L	Bebidas	24	9.8	2020-12-10	administrador
+7000001	Leche Gloria	Lacteos	20	3.5	2020-12-10	administrador
+7000002	Pasta dental Colgate	Cuidado Personal	15	3.6	2020-12-10	administrador

@@ -1,0 +1,30 @@
+	----------------------------------
+	   Sistema de Venta MEMORIESBACK
+	----------------------------------
+		 Nombre_del_Comercio
+		  R.U.C:1234567890
+		     Telefono
+		    Nro_boleta
+	Fecha_Registro	     Hora_Registro
+	Cajero(a):
+	----------------------------------
+		 Datos del Cliente
+	----------------------------------
+	 D.N.I :   
+	 Nombre: 
+	----------------------------------
+	 Cant.	 Descripcion	 Precio
+	----------------------------------
+
+	----------------------------------
+	 Subtotal	S/.	00000.00
+	 I.G.V(18%)	S/.	00000.00
+	 Total		S/.	00000.00
+	----------------------------------
+	 Tipo de pago:	tipo_de_pago
+	 Moneda :	Soles
+	 Importe:	S/.	00000.00
+	 Vuelto:	S/.	00000.00
+	----------------------------------
+	    Gracias por su preferencia	
+	

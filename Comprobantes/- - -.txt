@@ -1,0 +1,38 @@
+
+	--------------------------------------
+	        Sistema de Venta MEMORIESBACK
+	--------------------------------------
+	                 Super Ahorro
+	          -- Seleccionar -- de Venta electronica
+	                       - - -
+	Fecha: 2020-12-11              Hora: 08:56:29
+	Cajero(a):
+	--------------------------------------
+		Datos Cliente
+	--------------------------------------
+	 D.N.I: 
+	 Nombre: 
+	--------------------------------------
+	 Cant.	 Descripcion	     Precio
+	--------------------------------------
+	  1   Venta Rapida (2020-12-11)      125.30  
+	--------------------------------------
+	 Subtotal	S/.	106.19
+	 I.G.V(18%)	S/.	19.11
+	 Descuento:	S/.	0.00
+	 Total	S/.	125.30
+	--------------------------------------
+	 Son: CIENTO VEINTE Y CINCO 30/100 SOLES.
+	--------------------------------------
+	              ** Descripcion de pago **
+	--------------------------------------
+	 Tipo de pago:	Pago en Efectivo
+	 Nro Operación:  900001
+	 Moneda :	Soles
+	 Importe:	S/.	130.00
+	 Vuelto:	S/.	4.70
+	--------------------------------------
+	Cambio y/o Devolución según politica
+	de comercio. Tiempo estimado 24horas
+	--------------------------------------
+	            Gracias por su preferencia

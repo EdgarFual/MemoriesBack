@@ -1,0 +1,40 @@
+
+	--------------------------------------
+	        Sistema de Venta MEMORIESBACK
+	--------------------------------------
+	                 Super Ahorro
+	          Boleta de Venta electronica
+	                       B001 - 00000
+	Fecha: 2020-12-11              Hora: 08:58:16
+	Cajero(a):
+	--------------------------------------
+		Datos Cliente
+	--------------------------------------
+	 D.N.I: 9
+	 Nombre: Cliente General
+	--------------------------------------
+	 Cant.	 Descripcion	     Precio
+	--------------------------------------
+	  1   Venta Rapida (2020-12-11)      150.00  
+	--------------------------------------
+	 Subtotal	S/.	127.12
+	 I.G.V(18%)	S/.	22.88
+	 Descuento:	S/.	0.00
+	 Total	S/.	150.00
+	--------------------------------------
+	 Son: CIENTO CINCUENTA 00/100 SOLES.
+	--------------------------------------
+	              ** Descripcion de pago **
+	--------------------------------------
+	 Tipo de pago:	Tarjeta de Debito y/o Credito
+	 No. Tarjeta:	************6665
+	 Tipo Tarjeta:  Visa
+	 Nro Operación:  985632147
+	 Moneda :	Soles
+	 Importe:	S/.	150.00
+	 Vuelto:	S/.	0.00
+	--------------------------------------
+	Cambio y/o Devolución según politica
+	de comercio. Tiempo estimado 24horas
+	--------------------------------------
+	            Gracias por su preferencia

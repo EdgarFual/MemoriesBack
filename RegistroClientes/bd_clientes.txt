@@ -1,0 +1,8 @@
+D.N.I	71443341	Piero Jesus	Hinojosa de la Cruz	Masculino	938251685	piero5jesus5@gmail.com	Lima, Peru	administrador	2020-07-09	13:32:27
+D.N.I	71792714	Samuel Roberto	Castillo Sosa	Masculino	990398407	castillososasamuelroberto@gmail.com	Luis montero Mz 53Lt 18 - Chiclayo	administrador	2020-07-10	13:32:27
+D.N.I	72187650	Renildo Cristopher	Chavez Atarama	Masculino	971053587	Renildochavez@gmail.com	AAHH 26 de octubre Enrique López albujar MzA lote 13 calle Turquía	administrador	2020-11-28	13:32:27
+D.N.I	72621249	Randolph Fabrizio	Ramirez Palacios	Masculino	945529033	rramirezpa5@ucvvirtual.edu.pe	Santa Martha 1era cuadra N120	administrador	2020-12-10	13:32:27
+D.N.I	72880110	Olga Isabel	Zapata Culquicondor	Femenino	946977006	ozapatac@ucvvirtual.edu.pe	Piura, Peru	administrador	2020-12-10	13:45:43
+D.N.I	75954109	Diego Arturo	 Yangua Merino	Masculino	921880951	DacyGaming@hotmail.com	Piura, Peru	administrador	2020-12-10	13:45:43
+D.N.I	74247163	Edgar Lizardo	Fuentes Alvarado	Masculino	950890944	edgarfuentesalvardo@gmail.com	Micaela B. Mz O Lt4	administrador	2020-12-10	13:45:43
+D.N.I	98563247	Juan	Perez	Masculino	123658974	micorreo@example.es	domicilio 123 , Peru	administrador	2020-12-10	23:03:56

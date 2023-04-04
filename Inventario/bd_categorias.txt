@@ -1,0 +1,11 @@
+Bebidas
+Cuidado Personal
+Congelados
+Lacteos
+Abarrotes
+Bedida Alcoholica
+Papeleria
+Comida Enlatada
+Comida Congelada
+Dulceria 
+Farmacia
